@@ -28,7 +28,7 @@ class MainWidgetState extends State<MainWidget> {
       this._currentScreen = screen;
     });
 
-    /* Fecha drawer */
+    /* Closing drawer */
 
     Navigator.pop(context);
   }
